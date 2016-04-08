@@ -1,6 +1,6 @@
 {
   "name": "webpack_react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack 和 react 的项目实战demo",
   "main": "webpack.config.js",
   "scripts": {
